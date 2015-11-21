@@ -23,6 +23,7 @@ $ java -jar SpringBootLayer-1.0.0-SNAPSHOT.jar
 ```
 
 ###Spring JDBC
+pom.xml
 ```
 <dependencies>
   <dependency>
