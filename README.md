@@ -19,5 +19,5 @@ or
 ```
 $ mvn clean
 $ mvn package
-$ java -jar SpringBootJDBC-1.0.0-SNAPSHOT.jar
+$ java -jar target/SpringBootJDBC-1.0.0-SNAPSHOT.jar
 ```
