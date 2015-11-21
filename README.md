@@ -1,7 +1,7 @@
 # java-spring-boot-jdbc
 ###Create .gitignore
 ```
-$ gibo OSX Windows SublimeText
+$ gibo OSX Windows SublimeText >> .gitignore
 ```
 
 ###Create Project
