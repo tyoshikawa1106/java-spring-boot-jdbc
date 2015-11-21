@@ -19,20 +19,5 @@ or
 ```
 $ mvn clean
 $ mvn package
-$ java -jar SpringBootLayer-1.0.0-SNAPSHOT.jar
-```
-
-###Spring JDBC
-pom.xml
-```
-<dependencies>
-  <dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-jdbc</artifactId>
-  </dependency>
-  <dependency>
-    <groupId>com.h2database</groupId>
-    <artifactId>h2</artifactId>
-  </dependency>
-</dependencies>
+$ java -jar SpringBootJDBC-1.0.0-SNAPSHOT.jar
 ```
